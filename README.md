@@ -12,8 +12,11 @@ My Object Oriented Programming practice tasks using C++
 * static members.
 * Destructor.
 * Copy Constructor.
+
 ===================
-#Requirements:
+
+Requirements:
+
 Coding Task: Simple College Management System
 Project Overview
 You’ll create a C++ program to manage a college’s student records. The system will allow you to add students, update their grades, and display their information. This will test your understanding of classes, encapsulation, constructors, operator overloading, copy constructors, and more.
