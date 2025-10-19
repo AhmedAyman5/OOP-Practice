@@ -1,6 +1,5 @@
 # OOP-Practice
 My Object Oriented Programming practice tasks using C++
-
 #Practice on:
 * defference between C and C++ - Function Overloading - Default Parameters - Reference.
 * new and delete KeyWords.
@@ -13,9 +12,7 @@ My Object Oriented Programming practice tasks using C++
 * static members.
 * Destructor.
 * Copy Constructor.
-
-
-
+===================
 #Requirements:
 Coding Task: Simple College Management System
 Project Overview
